@@ -12,12 +12,17 @@ Screen 01  : Welcome Screen / Splash Screen With Fancy Progressbar
 
 Screen 02  : Display List Of Users
 	Case A : If internet is available
-		1) : Display Data from local
+	
+		1) : Display Data from local 
+		
 		2) : Fetch list of Users from remote
-		3) : Replace / Append  list in local with the new list from remote 
+		
+		3) : Replace / Append  list in local with the new list from remote
+		
 	Case B : If no internet is available
+	
 		1) : Display Data from local Only
-
+		
 Extra on Screen 02 : 
 		1) : By Doing Long Click on Record of User We can Detele That Record also...
 		2) : We can Search any User From List OF all Users By typing any users Name...
