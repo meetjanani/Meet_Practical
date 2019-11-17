@@ -15,7 +15,6 @@ Screen 02  : Display List Of Users
 		1) : Display Data from local
 		2) : Fetch list of Users from remote
 		3) : Replace / Append  list in local with the new list from remote 
-
 	Case B : If no internet is available
 		1) : Display Data from local Only
 
