@@ -5,7 +5,7 @@ Greetings Of The Day,
 My Self Meet Janani
 Email : Meetjanani87@gmail.com
 
-Here i Attach My Practical Task APK  + SourceCode With Github Link of Meet Practical`s Link
+Here I Attach My Practical Task With SourceCode on Github Link of : https://github.com/meetjanani/Meet_Practical
 
 
 Screen 01  : Welcome Screen / Splash Screen With Fancy Progressbar
