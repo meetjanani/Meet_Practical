@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Meet Practical</string>
+
+    <!--network-->
+    <string name="no_internet">Please, enable internet connection before using this app</string>
+
+    <!--permission-->
+    <string name="permission_msg">Need Permissions</string>
+    <string name="permission_storage">This app needs access storage to download the image</string>
+    <string name="loading_msg">Please Wait&#8230;</string>
+
+    <!--Dialog Box-->
+    <string name="dialog_settings">GOTO SETTINGS</string>
+    <string name="dialog_option_cancel">Cancel</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">Cancel</string>
+    <string name="dialog_alert">Are You Sure !!</string>
+    <string name="dialog_delete_title">Delete User</string>
+
+    <!--App Share-->
+    <string name="share_msg">Meet Practical</string>
+
+</resources>
