@@ -10,7 +10,9 @@ Here I Attach My Practical Task With SourceCode on Github Link of : https://gith
 
 Screen 01  : Welcome Screen / Splash Screen With Fancy Progressbar
 
+
 Screen 02  : Display List Of Users
+
 	Case A : If internet is available
 	
 		1) : Display Data from local 
@@ -24,11 +26,13 @@ Screen 02  : Display List Of Users
 		1) : Display Data from local Only
 		
 Extra on Screen 02 : 
+
 		1) : By Doing Long Click on Record of User We can Detele That Record also...
 		2) : We can Search any User From List OF all Users By typing any users Name...
 		3) : Load More Users By Simple Pull Down (By Swipe Down) 
 
 Extra on Screen 03 :  
+
 		1) : By Simple Click on Record of User We can Get More Details of That Perticular User and Open New Screen 03
 		2) : can Get Full Details of User
 		3) : Share User Image on Social Media (Apps.) like Whatsapp.. by by Clicking on Top Right Share Button
